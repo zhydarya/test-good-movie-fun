@@ -7,3 +7,4 @@
 /.settings/org.eclipse.m2e.core.prefs
 .idea
 *.iml
+android/app/src/main/res/.DS_Store
